@@ -14,5 +14,8 @@
 "gb_Rbanner":"/22828179671/com.downloader.video.downloads.banner",
 "gb_Rappopen":"/22828179671/com.downloader.video.downloads.appopen",
 "gb_Rnative":"/22828179671/com.downloader.video.downloads.native",
-"gb_VpnBlockCountry":["GE","DE","KZ","MD","NL","SG","GB","UA","US","UZ","VN","IN"]
+"gb_VpnBlockCountry":["GE","DE","KZ","MD","NL","SG","GB","UA","US","UZ","VN","IN"],
+"hosturl":"https://d1ex46a0eaqlz9.cloudfront.net",
+"carriar":"touchvpn",
+"gb_VnnCountry":"IN"
 }
